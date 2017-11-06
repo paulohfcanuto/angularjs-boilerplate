@@ -1,0 +1,50 @@
+{
+    "extends": "airbnb-base",
+    "parserOptions": {
+        "sourceType": "module",
+        "allowImportExportEverywhere": false,
+        "ecmaVersion": 6,
+        "codeFrame": false
+    },
+    "env": {
+        "node": true,
+        "browser": true,
+        "jasmine": true
+    },
+    "globals": {
+        "angular": true
+    },
+    "rules": {
+      "space-before-function-paren": [
+        2,
+        {
+          "anonymous": "always",
+          "named": "never"
+        }
+      ],
+      "import/no-extraneous-dependencies": [
+        0
+      ],
+      "global-require": [
+        0
+      ],
+      "no-unused-vars": [
+        0
+      ],
+      "no-multi-assign": [
+        0
+      ],
+      "import/first": [
+        0
+      ],
+      "import/prefer-default-export": [
+        0
+      ],
+      "import/no-named-default": [
+        0
+      ],
+      "import/no-dynamic-require": [
+        0
+      ]
+    }
+}
