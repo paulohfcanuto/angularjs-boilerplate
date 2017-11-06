@@ -1,16 +1,4 @@
-# AngularJS Material Dashboard
-
-
-The master branch contains:
-* angularJS
-* webpack
-* sass
-* component-based routing (@uirouter/angularjs)
-* ES6 support (babel)
-* unit testing with karma
-* end-to-end testing with protractor
-* linting with eslint
-
+# AngularJS Boilerplate
 
 ### Dependencies
 
@@ -18,10 +6,7 @@ The master branch contains:
 yarn install
 ```
 
-### Launch the App
-
-To run the app in development mode:
-
+### Launch the App in development modes
 ```
 npm run start
 ```
