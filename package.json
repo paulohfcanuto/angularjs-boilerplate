@@ -6,7 +6,7 @@
     "author": "Paulo Henrique Fernandes Canuto <paulohfcanuto>",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/paulohfcanuto/angular-material-admin.git"
+        "url": "git+https://github.com/paulohfcanuto/angularjs-boilerplate.git"
     },
     "scripts": {
         "build": "webpack --env=dev --progress",
