@@ -11,7 +11,7 @@
     "scripts": {
         "build": "webpack --env=dev --progress",
         "build:prod": "webpack --env=prod --progress",
-        "lint": "eslint src/**/*.js -c ./config/.eslintrc --ignore-path ./config/.eslintignore",
+        "lint": "eslint src/**/*.js -c ./config/.eslintrc",
         "start": "webpack-dev-server --env=dev --open --progress --no-info",
         "start:prod": "webpack-dev-server --env=prod --open --progress --no-info",
         "test": "karma start ./config/karma.conf.js"
