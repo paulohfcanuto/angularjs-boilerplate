@@ -1,7 +1,7 @@
 {
-    "name": "angular-material-admin",
+    "name": "angularjs-boilerplate",
     "version": "0.0.1",
-    "description": "AngularJS Material Dashboard",
+    "description": "A AngularJS boilerplate written in ES6",
     "license": "MIT",
     "author": "Paulo Henrique Fernandes Canuto <paulohfcanuto>",
     "repository": {
