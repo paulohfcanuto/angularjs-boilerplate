@@ -33,3 +33,5 @@ Unit tests should be added to a file named **.spec.js somewhere in the app direc
 ```
 yarn run test:unit
 ```
+
+credits to @brittanymoore
