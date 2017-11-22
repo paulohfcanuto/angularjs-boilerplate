@@ -8,7 +8,7 @@ yarn install
 
 ### Launch the App in development modes
 ```
-npm run start
+yarn run start
 ```
 
 ### Build
@@ -21,15 +21,15 @@ npm run start
 |                   | start:prod     |          |        |
 
 ```
-npm run start
-npm run start:prod
+yarn run start
+yarn run start:prod
 ```
 
 ### Test
 
-Support is built-in for unit testing with Karma 
+Support is built-in for unit testing with Karma
 Unit tests should be added to a file named **.spec.js somewhere in the app directory tree. To run the tests:
 
 ```
-npm run test:unit
+yarn run test:unit
 ```
