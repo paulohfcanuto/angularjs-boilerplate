@@ -6,7 +6,7 @@
 yarn install
 ```
 
-### Launch the App in development modes
+### Launch the App in development mode
 ```
 yarn run start
 ```
