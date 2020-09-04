@@ -57,7 +57,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "^0.0.31",
     "karma-webpack": "^2.0.6",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.0.8",
     "raw-loader": "^0.5.1",
     "sass-loader": "^6.0.6",
